@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mastermind_banner.png" alt="Mastermind Python Project Banner" width="100%">
+  <img src="Mastermind%20python%20game.png" alt="Mastermind Python Project Banner" width="100%">
 </p>
 
 # 🎯 Mastermind — Python Game Project
