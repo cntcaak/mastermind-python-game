@@ -151,3 +151,20 @@ If you like this project, consider ⭐ starring the repo — it really motivates
 
 Akber Ali Khan
 Mechanical Engineer exploring Python, AI, and software development.
+---
+
+## 📸 Screenshots
+
+### Console Version (VS Code / Terminal)
+This is the original Python console-based gameplay.
+
+![Console Screenshot](console_screenshot.png)
+
+---
+
+### Streamlit Web Version
+Browser-based UI with dropdowns, game history, feedback, and restart button.
+
+![Streamlit Screenshot](streamlit_screenshot.png)
+
+---
