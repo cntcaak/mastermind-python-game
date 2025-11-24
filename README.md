@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mastermind_banner.png" alt="Mastermind Python Project Banner" width="100%">
+</p>
+
 # 🎯 Mastermind — Python Game Project
 
 A classic **Mastermind color code-breaking game** built completely in Python as my first programming project.  
