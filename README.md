@@ -33,7 +33,7 @@ Incorrect positions: 1
 
 You can play the Mastermind game directly in your browser here:
 
-👉 Play Now: https://mastermind-app-vrjyghel2eubzjc4mpytef.streamlit.app/
+👉 Play Now: https://mastermind-game.streamlit.app/
 
 💻 Code Structure
 
@@ -133,11 +133,11 @@ Structuring a small project and publishing it on GitHub
 
 🔗 Useful Links
 
-🌐 Live Game: [STREAMLIT_APP_URL_HERE](https://mastermind-app-vrjyghel2eubzjc4mpytef.streamlit.app/)
+🌐 Live Game: https://mastermind-game.streamlit.app/
 
-📁 Repository: [GITHUB_REPO_URL_HERE](https://github.com/cntcaak?tab=repositories)
+📁 Repository: (https://github.com/cntcaak?tab=repositories
 
-💼 LinkedIn: [LINKEDIN_URL_HERE](https://www.linkedin.com/in/cntcaak/)
+💼 LinkedIn: https://www.linkedin.com/in/cntcaak/
 
 🙌 Feedback & Contributions
 
