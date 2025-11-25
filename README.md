@@ -68,7 +68,7 @@ Streamlit	Interactive web interface
 Git/GitHub	Version control and hosting
 🚀 How to Run Locally
 1️⃣ Clone the repository
-git clone [GITHUB_REPO_URL_HERE](https://github.com/cntcaak?tab=repositories)
+git clone https://github.com/cntcaak?tab=repositories
 cd mastermind-python-game
 
 
